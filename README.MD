@@ -9,7 +9,7 @@ Author: 	FurryStudio
 Website: 	https://furrystudiocn.github.io
 
 
-Changelog:
+更新日志:
 -----------------------
 Version 1.0 14-05-2018
 - initial release 
@@ -26,6 +26,6 @@ Credits:
 - Pexels https://www.pexels.com/
 - Unsplash https://unsplash.com/
 
-License:
+许可证:
 -----------------------
 This template is under Free License
